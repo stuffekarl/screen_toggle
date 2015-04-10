@@ -7,8 +7,8 @@ ifeq ($(strip $(DEVKITPPC)),)
 $(error "Please set DEVKITPPC in your environment. export DEVKITPPC=<path to>devkitPPC)
 endif
 
-#include $(DEVKITPPC)/gamecube_rules
-include $(DEVKITPPC)/wii_rules
+include $(DEVKITPPC)/gamecube_rules
+#include $(DEVKITPPC)/wii_rules
 
 #---------------------------------------------------------------------------------
 # TARGET is the name of the output

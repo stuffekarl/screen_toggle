@@ -39,18 +39,7 @@ main.o: c:/Users/Snufkin/Documents/GitHub/screen_toggle/source/main.c \
  c:/devkitPro/libogc/include/ogc/video_types.h \
  c:/devkitPro/libogc/include/ogc/usbgecko.h \
  c:/devkitPro/libogc/include/ogc/video_types.h \
- c:/devkitPro/libogc/include/ogc/texconv.h \
- c:/devkitPro/libogc/include/ogc/ipc.h \
- c:/devkitPro/libogc/include/ogc/es.h \
- c:/devkitPro/libogc/include/ogc/stm.h \
- c:/devkitPro/libogc/include/ogc/ios.h \
- c:/devkitPro/libogc/include/ogc/usb.h \
- c:/devkitPro/libogc/include/ogc/isfs.h \
- c:/devkitPro/libogc/include/ogc/conf.h \
- c:/devkitPro/libogc/include/ogc/usbstorage.h \
- c:/devkitPro/libogc/include/ogc/mutex.h \
- c:/devkitPro/libogc/include/ogc/system.h \
- c:/devkitPro/libogc/include/ogc/wiilaunch.h
+ c:/devkitPro/libogc/include/ogc/texconv.h
 
 c:/devkitPro/libogc/include/ogcsys.h:
 
@@ -133,25 +122,3 @@ c:/devkitPro/libogc/include/ogc/usbgecko.h:
 c:/devkitPro/libogc/include/ogc/video_types.h:
 
 c:/devkitPro/libogc/include/ogc/texconv.h:
-
-c:/devkitPro/libogc/include/ogc/ipc.h:
-
-c:/devkitPro/libogc/include/ogc/es.h:
-
-c:/devkitPro/libogc/include/ogc/stm.h:
-
-c:/devkitPro/libogc/include/ogc/ios.h:
-
-c:/devkitPro/libogc/include/ogc/usb.h:
-
-c:/devkitPro/libogc/include/ogc/isfs.h:
-
-c:/devkitPro/libogc/include/ogc/conf.h:
-
-c:/devkitPro/libogc/include/ogc/usbstorage.h:
-
-c:/devkitPro/libogc/include/ogc/mutex.h:
-
-c:/devkitPro/libogc/include/ogc/system.h:
-
-c:/devkitPro/libogc/include/ogc/wiilaunch.h:

@@ -75,7 +75,6 @@ int main() {
 		//old_Held = buttonsHeld;
 		count++;
 		printf("         f: %d, s: %d\r", count, count/60);
-		printf("%d", rmode->viTVMode);
 		if(white)
 		DrawBox(BORDER, BORDER, (rmode->fbWidth - BORDER), (rmode->xfbHeight) - BORDER, COLOR_WHITE);
 		VIDEO_Flush();
